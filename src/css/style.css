@@ -1,0 +1,13 @@
+button {
+    border: 2px lightgrey solid !important;
+    border-radius: 20px !important;
+}
+
+.fonts {
+    font-family: 'MuseoModerno', cursive;
+}
+
+.logo {
+   
+    max-width:150px !important;
+}
